@@ -1,0 +1,17 @@
+diffusers==0.38.0
+transformers
+accelerate
+peft
+huggingface_hub
+torch
+torchvision
+datasets
+numpy
+pandas
+pyarrow
+Pillow
+matplotlib
+pycocotools
+lpips
+torchmetrics
+torch-fidelity

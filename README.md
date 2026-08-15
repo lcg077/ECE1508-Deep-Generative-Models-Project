@@ -63,7 +63,7 @@ ECE1508-Deep-Generative-Models-Project/
 
 ## Generated Outputs
 
-The notebook creates the following directories in Google Drive during execution. They are not included in the repository because they contain generated images, checkpoints, and evaluation artifacts.
+The notebook creates the following directories in Google Drive during execution. Because these directories contain a large number of generated images, model checkpoints, and evaluation artifacts, they are too large to include in the GitHub repository.
 
 ```text
 outputs/
@@ -91,8 +91,6 @@ KID          Small-sample distributional comparison
 ```
 
 Lower values indicate better performance for all reported metrics.
-
-Because the number of samples available for each style category is limited, the absolute FID and ArtFID values should not be compared directly with large-scale published benchmarks. These measurements are reported as supplementary results, while KID is emphasized in the main distributional comparison.
 
 ## Additional Experiments
 

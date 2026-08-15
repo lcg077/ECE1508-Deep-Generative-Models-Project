@@ -100,4 +100,4 @@ The project includes a joint sensitivity sweep over the query-preservation weigh
 
 ## Reference
 
-> Chung, J., Hyun, S., & Heo, J.-P. (2024). Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 8795–8805. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Style_Injection_in_Diffusion_A_Training-free_Approach_for_Adapting_Large-scale_CVPR_2024_paper.html)
+> Chung, J., Hyun, S., & Heo, J.-P. (2024). Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 8795–8805. [arXiv:2312.09008](https://arxiv.org/abs/2312.09008)
